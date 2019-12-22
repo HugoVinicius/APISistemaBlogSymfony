@@ -1,4 +1,6 @@
 {
+    "name" : "blog-api/blog-api",
+    "description": "Blog API",
     "type": "project",
     "license": "proprietary",
     "require": {
