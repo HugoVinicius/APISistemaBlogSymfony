@@ -1,4 +1,6 @@
-# Máquina de Busca
+# Sistema de Blog
+
+Construindo uma sistema de API Rest com Symfony
 
 > **Aluno:** Hugo Vinicius Reis Vaz
 
