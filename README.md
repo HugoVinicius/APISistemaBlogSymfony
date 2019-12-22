@@ -22,17 +22,3 @@ Apos a instalação realizada basta executar o comando abaixo.
 ```sh
 $ composer install
 ```
-
-## Configuração
-
-
-
-```sh
-$ php app engines
-```
-
-
-
-```sh
-$ php app search macbook
-```
